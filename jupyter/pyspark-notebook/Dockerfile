@@ -24,4 +24,4 @@ USER $NB_USER
 
 RUN pip install --upgrade pip
 RUN pip install lxml
-RUN pip install tushare psycopg2-binary raven raven redis kombu jupyterlab ta-lib
+
